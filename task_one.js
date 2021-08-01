@@ -1,3 +1,9 @@
+// QUESTION: Create an algorithm that runs through a one-dimensional array containing letters and numbers: [ “a”, 10, “b”, “hola”, 122, 15]
+// Get an array containing just the letters
+// Get an array containing just the numbers
+// Get the highest number from the array above
+
+
 const data = [ "a", 10, "b", "hola", 122, 15, 985, "hello", 0, 500, true, {} ];
 
 // a
